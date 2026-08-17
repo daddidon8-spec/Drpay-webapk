@@ -1,0 +1,9 @@
+{
+  "appId": "com.drpay.app",
+  "appName": "DR Pay",
+  "webDir": "www",
+  "server": {
+    "url": "https://www.drpay.online",
+    "cleartext": true
+  }
+}
